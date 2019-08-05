@@ -1,10 +1,9 @@
 # roslab
 How to use python code (with OpenCV) to capture and display camera video on Jetson TX2 using onboard camera. 
+- GStreamer debugging techniques
+- TX2 Camera using Caffe Inferencing
 
-GStreamer debugging techniques
-TX2 Camera using Caffe Inferencing
-
-GitHub Commands
+## GitHub Commands
 
 ### Getting & Creating Projects
 
