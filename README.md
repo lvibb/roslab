@@ -62,3 +62,6 @@ How to use python code (with OpenCV) to capture and display camera video on Jets
 | `git log` | View changes |
 | `git log --summary` | View changes (detailed) |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+
+License
+Copyright (c) 2019
